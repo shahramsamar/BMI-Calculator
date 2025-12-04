@@ -1,2 +1,2 @@
-# Master in Python
+# BMI Calculator
  
